@@ -13,7 +13,7 @@ Highlights the core values: Integrity, Innovation, Inclusivity, and Excellence.
 
 Showcases Proud Achievements that define the institution’s legacy.
 
-2.** Virtual Tour**
+2. ** Virtual Tour**
 
 A virtual tour allows students and recruiters to explore the campus layout and navigation routes conveniently.
 
